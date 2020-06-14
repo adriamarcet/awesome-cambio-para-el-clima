@@ -1,5 +1,5 @@
 # Cambia por el clima
-Listado de recursos ayudan a cambiar nuestro día a día a favor de la ecología y el clima.
+Listado de recursos ayudan a cambiar nuestro día a día a favor de la ecología y el clima. [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contenidos
 - [Prensa escrita](#prensa-escrita)
