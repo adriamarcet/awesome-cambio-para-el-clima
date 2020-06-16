@@ -1,16 +1,17 @@
-# Cambio por el clima
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Cambio Por El Clima [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecología y el clima.
 
 ## Contenidos
-- [Prensa escrita](#prensa-escrita-especializada)
-- [Recursos didácticos](#recursos-didacticos)
-- [Consumo local](#consumo-local)
-- [Energía eléctrica](#energía-eléctrica)
-- [Audiovisuales](#audiovisuales)
 
-## Prensa escrita especializada
+- [Prensa Escrita](#prensa-escrita-especializada) - Prensa Escrita
+- [Recursos Didácticos](#recursos-didacticos) - Recursos Didácticos
+- [Consumo Local](#consumo-local) - Consumo Local
+- [Energía Eléctrica](#energía-eléctrica) - Energía Eléctrica
+- [Audiovisuales](#audiovisuales) - Audiosivuales
+
+## Prensa Escrita Especializada
+
 - [Climática](https://www.climatica.lamarea.com/) - Suplemento de lamarea.com especializado en notícias, especiales e ideas sobre el clima.
 
 - [Carro de combate](https://www.carrodecombate.com/) - Bajo el lema *¡Consumir es un acto político!* la web ofrece grandes investigaciones sobre productos como el azúcar, el cacao, el aceite de palma, el café y muchos más. Publican también directorios sobre consumo responsable.
@@ -19,7 +20,8 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 
 - [iambiente](https://iambiente.es/) - Foro relacionado con el ámbito de la calidad ambientas, notícias sobre medio ambiente e innovación.
 
-## Recursos didácticos
+## Recursos Didácticos
+
 - [Teachers for Future Spain](https://teachersforfuturespain.org/) - Portal de recursos sobre educación ambiental para maestras. Entre otros uno de sus objetivos es naturalizar las prácticas escolares para el acercamiento al medio ambiente.
 
 - [Tiempo de actuar](https://tiempodeactuar.es/) - Portal con guías didácticas para distintos niveles de escolarizacion que giran entorno a la transformacion ecosocial. Un proyecto de la fundación FUHEM.
@@ -27,20 +29,26 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 - [Amarillo, verde y azul](https://www.amarilloverdeyazul.com/) - Blog de Ecoembes centrado en educación ambiental. Dan ideas para reutilizar y trasnformarlos en otros objetos a través de manualidades.
 
 
-## Consumo local
-### Frutas y verduras
-El consumo actual de carne y productos de origen animal excede las recomendaciones nutricionales así como el aporte calórico necesario para los animales humanos.
-Favorecer el consumo y una dieta basada en plantas reduce la demanda del consumo de animales y así la emisión de gases contaminantes derivados de esa actividad.
+## Consumo Local
+
+### Frutas Y Verduras
+
+El consumo actual de carne y productos de origen animal excede las recomendaciones nutricionales así como el aporte calórico necesario para los animales humanos. Favorecer el consumo y una dieta basada en plantas reduce la demanda del consumo de animales y así la emisión de gases contaminantes derivados de esa actividad.
+
 #### Barcelona
+
 - [Més fresques que un enciam](https://mesfresquesqueunenciam.coop/) - Cooperativa autogestionada que ofrece servicio semanal de cestas de verdudas de distintos tamaños. Todo el producto proviene de circuitos cortos de su red de agricultoras sin intermediarios.
 
-## Energía eléctrica
+## Energía Eléctrica
+
 ### Distribuidoras
+
 - [Som Energia](https://www.somenergia.coop/) - Cooperativa de consumo y distribución de energía procedente de fuentes 100% renovables.
 
 - [Pepenergy](https://www.pepeenergy.com/) - Compañía de luz comprometida en que el 100% de lo que pagues irá destinado a productores de energía verde.
 
 ## Audiovisuales
+
 ### Cortometrajes
 
 - [Abuela Grillo](https://vimeo.com/11429985) - Corto animado producido en The Animation Workshop en Viborg, Dinamarca, por The Animation Workshop, Nicobis, Escorzo, y la Comunidad de Animadores Bolivianos.
@@ -52,4 +60,5 @@ Favorecer el consumo y una dieta basada en plantas reduce la demanda del consumo
 - [Los bosques y el carbono](https://vimeo.com/280367564) - Cortometraje explicando el efecto invernadero y porqué los últimos 10 años han sido los más calurosos de todo la história.
 
 ### Documentales
-- [Comprar, tirar, comprar… Obsolescencia programada ](https://www.youtube.com/watch?v=uGAghAZRMyU) - Documental sobre la práctica de la obsolescencia programada, inventada en 1929.
+
+- [Comprar, tirar, comprar. Obsolescencia programada](https://www.youtube.com/watch?v=uGAghAZRMyU) - Documental sobre la práctica de la obsolescencia programada, inventada en 1929.
