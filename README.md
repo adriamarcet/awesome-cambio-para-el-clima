@@ -1,7 +1,7 @@
 # Cambio por el clima
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Listado de recursos ayudan a cambiar nuestro día a día a favor de la ecología y el clima.
+Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecología y el clima.
 
 ## Contenidos
 - [Prensa escrita](#prensa-escrita-especializada)
