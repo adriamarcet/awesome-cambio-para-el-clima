@@ -5,8 +5,10 @@ Listado de recursos ayudan a cambiar nuestro día a día a favor de la ecología
 
 ## Contenidos
 - [Prensa escrita](#prensa-escrita-especializada)
+- [Recursos didácticos](#recursos-didacticos)
 - [Consumo local](#consumo-local)
 - [Energía eléctrica](#energía-eléctrica)
+- [Audiovisuales](#audiovisuales)
 
 ## Prensa escrita especializada
 - [Climática](https://www.climatica.lamarea.com/) - Suplemento de lamarea.com especializado en notícias, especiales e ideas sobre el clima.
@@ -16,6 +18,19 @@ Listado de recursos ayudan a cambiar nuestro día a día a favor de la ecología
 - [Ballena Blanca](https://www.eldiario.es/ballenablanca/) - Sección de eldiario.es sobre transición energética, economía y biodiversidad.
 
 - [iambiente](https://iambiente.es/) - Foro relacionado con el ámbito de la calidad ambientas, notícias sobre medio ambiente e innovación.
+
+## Recursos didácticos
+- [Teachers for Future Spain](https://teachersforfuturespain.org/) - Portal de recursos sobre educación ambiental para maestras. Entre otros uno de sus objetivos es naturalizar las prácticas escolares para el acercamiento al medio ambiente.
+
+- [Tiempo de actuar](https://tiempodeactuar.es/) - Portal con guías didácticas para distintos niveles de escolarizacion que giran entorno a la transformacion ecosocial. Un proyecto de la fundación FUHEM.
+
+- [Amarillo, verde y azul](https://www.amarilloverdeyazul.com/) - Blog de Ecoembes centrado en educación ambiental. Dan ideas para reutilizar y trasnformarlos en otros objetos a través de manualidades.
+
+- [Rang-Tan: la historia del bebé orangután y el aceite de palma](https://www.youtube.com/watch?v=-6jxnzyDTIc) - Cortometraje animado reivindicando la desforestación de bosques y el asesinato de orangutanes por el aceite de palma.
+
+- [Los bosques y el carbono](https://vimeo.com/280367564) - Cortometraje explicando el efecto invernadero y porqué los últimos 10 años han sido los más calurosos de todo la história.
+
+
 
 ## Consumo local
 ### Frutas y verduras
@@ -29,3 +44,14 @@ Favorecer el consumo y una dieta basada en plantas reduce la demanda del consumo
 - [Som Energia](https://www.somenergia.coop/) - Cooperativa de consumo y distribución de energía procedente de fuentes 100% renovables.
 
 - [Pepenergy](https://www.pepeenergy.com/) - Compañía de luz comprometida en que el 100% de lo que pagues irá destinado a productores de energía verde.
+
+## Audiovisuales
+### Cortometrajes
+
+- [Abuela Grillo](https://vimeo.com/11429985) - Corto animado producido en The Animation Workshop en Viborg, Dinamarca, por The Animation Workshop, Nicobis, Escorzo, y la Comunidad de Animadores Bolivianos.
+
+- [Man](https://www.youtube.com/watch?v=Ev0qVxk10FE&feature=youtu.be) - Corto animado sobre la repercusión de la acción del hombre en el mundo.
+
+
+### Documentales
+- [Comprar, tirar, comprar… Obsolescencia programada ](https://www.youtube.com/watch?v=uGAghAZRMyU) - Documental sobre la práctica de la obsolescencia programada, inventada en 1929.
