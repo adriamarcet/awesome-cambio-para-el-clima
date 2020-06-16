@@ -26,11 +26,6 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 
 - [Amarillo, verde y azul](https://www.amarilloverdeyazul.com/) - Blog de Ecoembes centrado en educación ambiental. Dan ideas para reutilizar y trasnformarlos en otros objetos a través de manualidades.
 
-- [Rang-Tan: la historia del bebé orangután y el aceite de palma](https://www.youtube.com/watch?v=-6jxnzyDTIc) - Cortometraje animado reivindicando la desforestación de bosques y el asesinato de orangutanes por el aceite de palma.
-
-- [Los bosques y el carbono](https://vimeo.com/280367564) - Cortometraje explicando el efecto invernadero y porqué los últimos 10 años han sido los más calurosos de todo la história.
-
-
 
 ## Consumo local
 ### Frutas y verduras
@@ -52,6 +47,9 @@ Favorecer el consumo y una dieta basada en plantas reduce la demanda del consumo
 
 - [Man](https://www.youtube.com/watch?v=Ev0qVxk10FE&feature=youtu.be) - Corto animado sobre la repercusión de la acción del hombre en el mundo.
 
+- [Rang-Tan: la historia del bebé orangután y el aceite de palma](https://www.youtube.com/watch?v=-6jxnzyDTIc) - Cortometraje animado reivindicando la desforestación de bosques y el asesinato de orangutanes por el aceite de palma.
+
+- [Los bosques y el carbono](https://vimeo.com/280367564) - Cortometraje explicando el efecto invernadero y porqué los últimos 10 años han sido los más calurosos de todo la história.
 
 ### Documentales
 - [Comprar, tirar, comprar… Obsolescencia programada ](https://www.youtube.com/watch?v=uGAghAZRMyU) - Documental sobre la práctica de la obsolescencia programada, inventada en 1929.
