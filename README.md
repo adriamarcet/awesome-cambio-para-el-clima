@@ -4,11 +4,12 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 
 ## Contenidos
 
-- [Prensa Escrita](#prensa-escrita-especializada) - Prensa Escrita
-- [Recursos Didácticos](#recursos-didacticos) - Recursos Didácticos
-- [Consumo Local](#consumo-local) - Consumo Local
-- [Energía Eléctrica](#energía-eléctrica) - Energía Eléctrica
-- [Audiovisuales](#audiovisuales) - Audiosivuales
+- [Prensa Escrita](#prensa-escrita-especializada)
+- [Recursos Didácticos](#recursos-didacticos)
+- [Consumo Local](#consumo-local)
+- [Energía Eléctrica](#energía-eléctrica)
+- [Audiovisuales](#audiovisuales)
+- [Proyectos y Organizaciones](#proyectos-y-organizaciones)
 
 ## Prensa Escrita Especializada
 
@@ -62,3 +63,10 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 ### Documentales
 
 - [Comprar, tirar, comprar. Obsolescencia programada](https://www.youtube.com/watch?v=uGAghAZRMyU) - Documental sobre la práctica de la obsolescencia programada, inventada en 1929.
+
+## Proyectos Y Organizaciones
+
+- [EDGE](https://www.edgeofexistence.org) - Proyecto centrado en el mapeo y la conservación de especies en peligro de extinción a nivel mundial. Tienen un listado de species clasificado por grado de peligro de extinción.
+
+- [European Wildlife](https://www.eurowildlife.org/) - Organización sin ánimo de lucro dedicada a proteger especies en peligro de extinción, reubicar animales salvages y presevar ambientes naturales.
+
