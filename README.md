@@ -64,9 +64,16 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 - [Comprar, tirar, comprar. Obsolescencia programada](https://www.youtube.com/watch?v=uGAghAZRMyU) - Documental sobre la práctica de la obsolescencia programada, inventada en 1929.
 
+### Radio y Podcast
+
+- [Solidaris](https://www.ccma.cat/catradio/solidaris/) - Programa de radio sobre derechos humanos, justucia social, paz y cooperación.
+
 ## Proyectos Y Organizaciones
 
 - [EDGE](https://www.edgeofexistence.org) - Proyecto centrado en el mapeo y la conservación de especies en peligro de extinción a nivel mundial. Tienen un listado de species clasificado por grado de peligro de extinción.
 
 - [European Wildlife](https://www.eurowildlife.org/) - Organización sin ánimo de lucro dedicada a proteger especies en peligro de extinción, reubicar animales salvages y presevar ambientes naturales.
+
+## APPS
+- [Gratix](https://play.google.com/store/apps/details?id=com.gratix.app) - App para cambiar o regalar cosas y darles una segunda vida.
 
