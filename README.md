@@ -46,6 +46,8 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 - [Animal de Isla](https://animaldeisla.com/blog/) - Blog de temas de sostenibilidad y reflexiones sobre el ecologismo desde el punto de vista de Mariana, su autora.
 
+- [Vivir sin Plásitco](https://vivirsinplastico.com/) - Blog con experiencias sobre cómo Patri y Fer aprenden a vivir sin plástico.
+
 ## Energía Eléctrica
 
 ### Distribuidoras
