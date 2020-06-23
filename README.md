@@ -7,6 +7,7 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 - [Prensa Escrita](#prensa-escrita-especializada)
 - [Recursos Didácticos](#recursos-didacticos)
 - [Consumo Local](#consumo-local)
+- [Blogs](#blogs)
 - [Energía Eléctrica](#energía-eléctrica)
 - [Audiovisuales](#audiovisuales)
 - [Proyectos y Organizaciones](#proyectos-y-organizaciones)
@@ -40,6 +41,10 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 #### Barcelona
 
 - [Més fresques que un enciam](https://mesfresquesqueunenciam.coop/) - Cooperativa autogestionada que ofrece servicio semanal de cestas de verdudas de distintos tamaños. Todo el producto proviene de circuitos cortos de su red de agricultoras sin intermediarios.
+
+## Blogs
+
+- [Animal de Isla](https://animaldeisla.com/blog/) - Blog de temas de sostenibilidad y reflexiones sobre el ecologismo desde el punto de vista de Mariana, su autora.
 
 ## Energía Eléctrica
 
