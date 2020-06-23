@@ -4,16 +4,16 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 
 ## Contenidos
 
-- [Prensa Escrita](#prensa-escrita-especializada)
+- [Prensa Escrita](#prensa)
+- [Blogs](#blogs)
 - [Recursos Didácticos](#recursos-didacticos)
 - [Consumo Local](#consumo-local)
-- [Blogs](#blogs)
 - [Energía Eléctrica](#energía-eléctrica)
 - [Audiovisuales](#audiovisuales)
 - [Proyectos y Organizaciones](#proyectos-y-organizaciones)
 - [APPS](#APPS)
 
-## Prensa Escrita Especializada
+## Prensa
 
 - [Climática](https://www.climatica.lamarea.com/) - Suplemento de lamarea.com especializado en notícias, especiales e ideas sobre el clima.
 
@@ -23,6 +23,14 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 
 - [iambiente](https://iambiente.es/) - Foro relacionado con el ámbito de la calidad ambientas, notícias sobre medio ambiente e innovación.
 
+## Blogs
+
+- [Animal de Isla](https://animaldeisla.com/blog/) - Blog de temas de sostenibilidad y reflexiones sobre el ecologismo desde el punto de vista de Mariana, su autora.
+
+- [Vivir sin Plásitco](https://vivirsinplastico.com/) - Blog con experiencias sobre cómo Patri y Fer aprenden a vivir sin plástico.
+
+- [BlogSOStenible](https://blogsostenible.wordpress.com/) - Blog de notícias y reflexiones medioambientales centrado en la sostenibilidad local y global.
+
 ## Recursos Didácticos
 
 - [Teachers for Future Spain](https://teachersforfuturespain.org/) - Portal de recursos sobre educación ambiental para maestras. Entre otros uno de sus objetivos es naturalizar las prácticas escolares para el acercamiento al medio ambiente.
@@ -30,6 +38,8 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 - [Tiempo de actuar](https://tiempodeactuar.es/) - Portal con guías didácticas para distintos niveles de escolarizacion que giran entorno a la transformacion ecosocial. Un proyecto de la fundación FUHEM.
 
 - [Amarillo, verde y azul](https://www.amarilloverdeyazul.com/) - Blog de Ecoembes centrado en educación ambiental. Dan ideas para reutilizar y trasnformarlos en otros objetos a través de manualidades.
+
+- [La Cadena Verde](http://www.lcc.uma.es/%7Eppgg/html/cadenave.html#ONGs) - Listado de 10 puntos que podemos tener en cuenta para ser más ecológicas en nuestro día a día. El listado está pensado para ser compartido fácilmente y establecer así una cadena de información fácilmente accesible.
 
 
 ## Consumo Local
@@ -41,12 +51,6 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 #### Barcelona
 
 - [Més fresques que un enciam](https://mesfresquesqueunenciam.coop/) - Cooperativa autogestionada que ofrece servicio semanal de cestas de verdudas de distintos tamaños. Todo el producto proviene de circuitos cortos de su red de agricultoras sin intermediarios.
-
-## Blogs
-
-- [Animal de Isla](https://animaldeisla.com/blog/) - Blog de temas de sostenibilidad y reflexiones sobre el ecologismo desde el punto de vista de Mariana, su autora.
-
-- [Vivir sin Plásitco](https://vivirsinplastico.com/) - Blog con experiencias sobre cómo Patri y Fer aprenden a vivir sin plástico.
 
 ## Energía Eléctrica
 
@@ -75,6 +79,8 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 ### Radio y Podcast
 
 - [Solidaris](https://www.ccma.cat/catradio/solidaris/) - Programa de radio sobre derechos humanos, justucia social, paz y cooperación.
+
+- [Orgullo Terrícola](https://www.spreaker.com/show/orgullo-terricola-radio) - Un podcast donde tres terrícolas orgullosas comparten su camino en búsqueda de una vida más consciente, más sostenible y más feliz.
 
 ## Proyectos Y Organizaciones
 
