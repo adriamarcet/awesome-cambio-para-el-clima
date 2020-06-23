@@ -23,7 +23,7 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 
 - [iambiente](https://iambiente.es/) - Foro relacionado con el ámbito de la calidad ambientas, notícias sobre medio ambiente e innovación.
 
-## Blogs
+## Blogs
 
 - [Animal de Isla](https://animaldeisla.com/blog/) - Blog de temas de sostenibilidad y reflexiones sobre el ecologismo desde el punto de vista de Mariana, su autora.
 
