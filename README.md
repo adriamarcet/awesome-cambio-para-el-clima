@@ -10,6 +10,7 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 - [Energía Eléctrica](#energía-eléctrica)
 - [Audiovisuales](#audiovisuales)
 - [Proyectos y Organizaciones](#proyectos-y-organizaciones)
+- [APPS](#APPS)
 
 ## Prensa Escrita Especializada
 
@@ -75,5 +76,5 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 - [European Wildlife](https://www.eurowildlife.org/) - Organización sin ánimo de lucro dedicada a proteger especies en peligro de extinción, reubicar animales salvages y presevar ambientes naturales.
 
 ## APPS
-- [Gratix](https://play.google.com/store/apps/details?id=com.gratix.app) - App para cambiar o regalar cosas y darles una segunda vida.
+- [Gratix](https://play.google.com/store/apps/details?id=com.gratix.app) - App para cambiar o regalar cosas y darles una segunda vida. App para Android.
 
