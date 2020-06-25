@@ -12,6 +12,7 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 - [Audiovisuales](#audiovisuales)
 - [Proyectos y Organizaciones](#proyectos-y-organizaciones)
 - [APPS](#APPS)
+- [Tiendas](#tiendas)
 
 ## Prensa
 
@@ -36,8 +37,6 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 - [Teachers for Future Spain](https://teachersforfuturespain.org/) - Portal de recursos sobre educación ambiental para maestras. Entre otros uno de sus objetivos es naturalizar las prácticas escolares para el acercamiento al medio ambiente.
 
 - [Tiempo de actuar](https://tiempodeactuar.es/) - Portal con guías didácticas para distintos niveles de escolarizacion que giran entorno a la transformacion ecosocial. Un proyecto de la fundación FUHEM.
-
-- [Amarillo, verde y azul](https://www.amarilloverdeyazul.com/) - Blog de Ecoembes centrado en educación ambiental. Dan ideas para reutilizar y trasnformarlos en otros objetos a través de manualidades.
 
 - [La Cadena Verde](http://www.lcc.uma.es/%7Eppgg/html/cadenave.html#ONGs) - Listado de 10 puntos que podemos tener en cuenta para ser más ecológicas en nuestro día a día. El listado está pensado para ser compartido fácilmente y establecer así una cadena de información fácilmente accesible.
 
@@ -95,3 +94,10 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 - [#BlockFossilsOut](https://beyond-coal.eu/blockfossilsout/) - Extension para Chrome y Firefox que bloquea las páginas de empresas de carbón y las que son financiandas por ellas.
 
+## Tiendas
+
+- [Alternativa3 Bio](https://alternativa3.bio/) - Tienda online que ofrece alternativas de consumo para productos habituales como el café, cacao o el azúcar. Productos 100% comercio justo.
+
+- [Copade](https://tutienda.copade.es/) - Tienda online de esta ONG que trabaja con productos bajo los principios del comercio justo, responsable y equitativo.
+
+- [Tienda Intermon Oxfam](https://tienda.oxfamintermon.org) - Tienda online de la ONG centrada en el comercio justo.
