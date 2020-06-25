@@ -94,7 +94,7 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 - [#BlockFossilsOut](https://beyond-coal.eu/blockfossilsout/) - Extension para Chrome y Firefox que bloquea las páginas de empresas de carbón y las que son financiandas por ellas.
 
-## Tiendas
+## Tiendas
 
 - [Alternativa3 Bio](https://alternativa3.bio/) - Tienda online que ofrece alternativas de consumo para productos habituales como el café, cacao o el azúcar. Productos 100% comercio justo.
 
