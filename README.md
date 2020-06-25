@@ -93,3 +93,5 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 ## APPS
 - [Gratix](https://play.google.com/store/apps/details?id=com.gratix.app) - App para cambiar o regalar cosas y darles una segunda vida. App para Android.
 
+- [#BlockFossilsOut](https://beyond-coal.eu/blockfossilsout/) - Extension para Chrome y Firefox que bloquea las páginas de empresas de carbón y las que son financiandas por ellas.
+
