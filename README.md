@@ -64,11 +64,13 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 ### Cortometrajes
 
-- [Abuela Grillo](https://vimeo.com/11429985) - Corto animado producido en The Animation Workshop en Viborg, Dinamarca, por The Animation Workshop, Nicobis, Escorzo, y la Comunidad de Animadores Bolivianos.
+- [Abuela Grillo](https://vimeo.com/11429985) - Cortometraje animado producido en The Animation Workshop en Viborg, Dinamarca, por The Animation Workshop, Nicobis, Escorzo, y la Comunidad de Animadores Bolivianos.
 
-- [Man](https://www.youtube.com/watch?v=Ev0qVxk10FE&feature=youtu.be) - Corto animado sobre la repercusión de la acción del hombre en el mundo.
+- [Man](https://www.youtube.com/watch?v=Ev0qVxk10FE&feature=youtu.be) - Cortometraje animado sobre la repercusión de la acción del hombre en el mundo.
 
 - [Rang-Tan: la historia del bebé orangután y el aceite de palma](https://www.youtube.com/watch?v=-6jxnzyDTIc) - Cortometraje animado reivindicando la desforestación de bosques y el asesinato de orangutanes por el aceite de palma.
+
+- [La historia de las cosas](https://www.storyofstuff.org/movies/la-historia-de-las-cosas-2/) - Cortometraje que explica en 20 minutos el lado oculto de nuestros patrones de producción y consumo.
 
 - [Los bosques y el carbono](https://vimeo.com/280367564) - Cortometraje explicando el efecto invernadero y porqué los últimos 10 años han sido los más calurosos de todo la história.
 
