@@ -40,7 +40,6 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 
 - [La Cadena Verde](http://www.lcc.uma.es/%7Eppgg/html/cadenave.html#ONGs) - Listado de 10 puntos que podemos tener en cuenta para ser más ecológicas en nuestro día a día. El listado está pensado para ser compartido fácilmente y establecer así una cadena de información fácilmente accesible.
 
-
 ## Consumo Local
 
 ### Frutas Y Verduras
@@ -89,10 +88,17 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 - [European Wildlife](https://www.eurowildlife.org/) - Organización sin ánimo de lucro dedicada a proteger especies en peligro de extinción, reubicar animales salvages y presevar ambientes naturales.
 
+- [Precious Plastic](https://preciousplastic.com/) - Proyecto de ambición mundial que ofrece y vende patrones de máquinas para reciclar plásticos. Con esas máquinas se puede construir nuevos objetos también a través de esas máquinas.
+
 ## APPS
+
 - [Gratix](https://play.google.com/store/apps/details?id=com.gratix.app) - App para cambiar o regalar cosas y darles una segunda vida. App para Android.
 
 - [#BlockFossilsOut](https://beyond-coal.eu/blockfossilsout/) - Extension para Chrome y Firefox que bloquea las páginas de empresas de carbón y las que son financiandas por ellas.
+
+## Recetas
+### Cosmética
+- [Ecoblog Nonoa](https://www.ecoblognonoa.com/recetas-cosmetica-natural-limpieza-hogar/) - Blog sobre alternativas para vivir sin plástico. Tienen una sección de recetas DIY para cosmética e higiene.
 
 ## Tiendas
 
