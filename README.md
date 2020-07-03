@@ -2,16 +2,17 @@
 
 Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecología y el clima.
 
-## Contenidos
+## Contents
 
-- [Prensa Escrita](#prensa)
+- [Prensa](#prensa)
 - [Blogs](#blogs)
-- [Recursos Didácticos](#recursos-didacticos)
+- [Recursos Didácticos](#recursos-didácticos)
 - [Consumo Local](#consumo-local)
 - [Energía Eléctrica](#energía-eléctrica)
 - [Audiovisuales](#audiovisuales)
 - [Proyectos y Organizaciones](#proyectos-y-organizaciones)
-- [APPS](#APPS)
+- [Apps](#apps)
+- [Recetas](#recetas)
 - [Tiendas](#tiendas)
 
 ## Prensa
@@ -82,7 +83,7 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 - [Orgullo Terrícola](https://www.spreaker.com/show/orgullo-terricola-radio) - Un podcast donde tres terrícolas orgullosas comparten su camino en búsqueda de una vida más consciente, más sostenible y más feliz.
 
-## Proyectos Y Organizaciones
+## Proyectos y Organizaciones
 
 - [EDGE](https://www.edgeofexistence.org) - Proyecto centrado en el mapeo y la conservación de especies en peligro de extinción a nivel mundial. Tienen un listado de species clasificado por grado de peligro de extinción.
 
@@ -92,7 +93,7 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 - [Generación KWH](https://www.generationkwh.org) - Iniciativa de Som Energía mediante el cuál las personas pueden invertir en proyectos de instalación de paneles solares. La inversión se devuelve por plazos (a lo largo de 25 años) con un 0% de interés y además la energía que consuma con SomEnergía será a precio de coste mientras dure esa devolución.
 
-## APPS
+## Apps
 
 - [Gratix](https://play.google.com/store/apps/details?id=com.gratix.app) - App para cambiar o regalar cosas y darles una segunda vida. App para Android.
 
