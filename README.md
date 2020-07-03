@@ -88,7 +88,9 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 - [European Wildlife](https://www.eurowildlife.org/) - Organización sin ánimo de lucro dedicada a proteger especies en peligro de extinción, reubicar animales salvages y presevar ambientes naturales.
 
-- [Precious Plastic](https://preciousplastic.com/) - Proyecto de ambición mundial que ofrece y vende patrones de máquinas para reciclar plásticos. Con esas máquinas se puede construir nuevos objetos también a través de esas máquinas.
+- [Precious Plastic](https://preciousplastic.com/) - Proyecto de ambición mundial que ofrece y vende patrones de máquinas para reciclar plásticos. Con esas máquinas se puede construir nuevos objetos y luego venderlos también a través de su plataforma.
+
+- [Generación KWH](https://www.generationkwh.org) - Iniciativa de Som Energía mediante el cuál las personas pueden invertir en proyectos de instalación de paneles solares. La inversión se devuelve por plazos (a lo largo de 25 años) con un 0% de interés y además la energía que consuma con SomEnergía será a precio de coste mientras dure esa devolución.
 
 ## APPS
 
@@ -107,3 +109,5 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 - [Copade](https://tutienda.copade.es/) - Tienda online de esta ONG que trabaja con productos bajo los principios del comercio justo, responsable y equitativo.
 
 - [Tienda Intermon Oxfam](https://tienda.oxfamintermon.org) - Tienda online de la ONG centrada en el comercio justo.
+
+- [Consume con coco](http://consumeconcoco.com/) - Directorio con tiendas y marcas enfocadas al consumo responsable y sostenible. Tienen tiendas en todo tipo de categorías y se pueden filtrar.
