@@ -41,6 +41,8 @@ Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecolo
 
 - [La Cadena Verde](http://www.lcc.uma.es/%7Eppgg/html/cadenave.html#ONGs) - Listado de 10 puntos que podemos tener en cuenta para ser más ecológicas en nuestro día a día. El listado está pensado para ser compartido fácilmente y establecer así una cadena de información fácilmente accesible.
 
+- [Consejos para ahorro de agua](https://www.miteco.gob.es/es/cambio-climatico/temas/educacion-formacion-sensibilizacion-del-publico/fichas-ahorro-agua_tcm30-171552.pdf) - Guía del Ministerio para la Transición Ecológica sobre el ahorro del agua en casa.
+
 ## Consumo Local
 
 ### Frutas Y Verduras
@@ -83,6 +85,11 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 - [Orgullo Terrícola](https://www.spreaker.com/show/orgullo-terricola-radio) - Un podcast donde tres terrícolas orgullosas comparten su camino en búsqueda de una vida más consciente, más sostenible y más feliz.
 
+### Programas de televisión
+
+- [El escarabajo verde](https://www.rtve.es/alacarta/videos/el-escarabajo-verde/) - Programa de RTVE que abarca todo tipo de temáticas relacionadas con el medioa ambiente. Sus episodios son mayormente en formato documental de 20 minutos de duración.
+
+
 ## Proyectos y Organizaciones
 
 - [EDGE](https://www.edgeofexistence.org) - Proyecto centrado en el mapeo y la conservación de especies en peligro de extinción a nivel mundial. Tienen un listado de species clasificado por grado de peligro de extinción.
@@ -92,6 +99,14 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 - [Precious Plastic](https://preciousplastic.com/) - Proyecto de ambición mundial que ofrece y vende patrones de máquinas para reciclar plásticos. Con esas máquinas se puede construir nuevos objetos y luego venderlos también a través de su plataforma.
 
 - [Generación KWH](https://www.generationkwh.org) - Iniciativa de Som Energía mediante el cuál las personas pueden invertir en proyectos de instalación de paneles solares. La inversión se devuelve por plazos (a lo largo de 25 años) con un 0% de interés y además la energía que consuma con SomEnergía será a precio de coste mientras dure esa devolución.
+
+- [ForTomorrow](https://www.fortomorrow.eu/en/home) - Fundación sin ánimo de lucro centrada en la neutralidad de emisiones de Carbono y gases de efecto invernadero. Con su plan de suscripción mensual/anual quieren compensar las emisiones de media de una persona europera plantando árboles. 
+
+- [Hope! En pie por el planeta](https://www.facebook.com/hopevideosparaelcambio/) - Comunidad de Facebook centrada en difundir y concienciar cómo cambiar en favor del planeta a tarvés de pequeños vídeos virales.
+
+- [Viaje a la sostenibilidad](https://viajealasostenibilidad.org/) - Asociación sin ánimo de lucro que funciona como organización de envío para intercambios culturales, formaciones y campos de trabajo.
+
+- [Code Against Climate Change](https://github.com/daviddao/code-against-climate-change) - Listado de proyectos tecnológicos en contra del cambio climático para inspirar tecnología disruptiva.
 
 ## Apps
 
