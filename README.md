@@ -1,6 +1,5 @@
 # Cambio Por El Clima [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-Listado de recursos que ayudan a cambiar nuestro día a día a favor de la ecología y el clima.
+Este listado está enfocado en recursos que ayuden a cambiar nuestros hábitos diarios en pro del medio ambiente y el clima con la finalidad de apaciguar el cambio climático.
 
 ## Contents
 
