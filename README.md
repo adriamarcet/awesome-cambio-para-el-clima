@@ -32,6 +32,8 @@ Este listado está enfocado en recursos que ayuden a cambiar nuestros hábitos d
 
 - [BlogSOStenible](https://blogsostenible.wordpress.com/) - Blog de notícias y reflexiones medioambientales centrado en la sostenibilidad local y global.
 
+- [LOW Tech Magazine](https://solar.lowtechmagazine.com/es/) - Web de artículos sobre tecnología, energía y economía del clima. Este sitio web está sustentando por energía solar.
+
 ## Recursos Didácticos
 
 - [Teachers for Future Spain](https://teachersforfuturespain.org/) - Portal de recursos sobre educación ambiental para maestras. Entre otros uno de sus objetivos es naturalizar las prácticas escolares para el acercamiento al medio ambiente.
@@ -99,7 +101,7 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 - [Generación KWH](https://www.generationkwh.org) - Iniciativa de Som Energía mediante el cuál las personas pueden invertir en proyectos de instalación de paneles solares. La inversión se devuelve por plazos (a lo largo de 25 años) con un 0% de interés y además la energía que consuma con SomEnergía será a precio de coste mientras dure esa devolución.
 
-- [ForTomorrow](https://www.fortomorrow.eu/en/home) - Fundación sin ánimo de lucro centrada en la neutralidad de emisiones de Carbono y gases de efecto invernadero. Con su plan de suscripción mensual/anual quieren compensar las emisiones de media de una persona europera plantando árboles. 
+- [ForTomorrow](https://www.fortomorrow.eu/en/home) - Fundación sin ánimo de lucro centrada en la neutralidad de emisiones de Carbono y gases de efecto invernadero. Con su plan de suscripción mensual/anual quieren compensar las emisiones de media de una persona europera plantando árboles.
 
 - [Hope! En pie por el planeta](https://www.facebook.com/hopevideosparaelcambio/) - Comunidad de Facebook centrada en difundir y concienciar cómo cambiar en favor del planeta a tarvés de pequeños vídeos virales.
 
