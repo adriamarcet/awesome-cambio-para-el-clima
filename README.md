@@ -115,6 +115,8 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 - [#BlockFossilsOut](https://beyond-coal.eu/blockfossilsout/) - Extension para Chrome y Firefox que bloquea las páginas de empresas de carbón y las que son financiandas por ellas.
 
+- [NMF.earth](https://nmf.earth/) - App para Android y iOS hacer un seguimiento y medir la huella ecológica de nuestras actividades diarias. También muestra el gasto producido por servicios de streaming digitales (audio, vídeo, etc.). Incluye una guía con recursos Zero Waste.
+
 ## Recetas
 ### Cosmética
 - [Ecoblog Nonoa](https://www.ecoblognonoa.com/recetas-cosmetica-natural-limpieza-hogar/) - Blog sobre alternativas para vivir sin plástico. Tienen una sección de recetas DIY para cosmética e higiene.
