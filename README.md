@@ -13,6 +13,7 @@ Este listado está enfocado en recursos que ayuden a cambiar nuestros hábitos d
 - [Apps](#apps)
 - [Recetas](#recetas)
 - [Tiendas](#tiendas)
+- [Reciclaje](#reciclaje)
 
 ## Prensa
 
@@ -44,6 +45,8 @@ Este listado está enfocado en recursos que ayuden a cambiar nuestros hábitos d
 
 - [Consejos para ahorro de agua](https://www.miteco.gob.es/es/cambio-climatico/temas/educacion-formacion-sensibilizacion-del-publico/fichas-ahorro-agua_tcm30-171552.pdf) - Guía del Ministerio para la Transición Ecológica sobre el ahorro del agua en casa.
 
+- [Guía de recursos educativos sobre el Cambio Climático](https://recida.net/sites/default/files/Gu%C3%ADa%20recursos%20educativos%20cambio%20clim%C3%A1tico.pdf) - Guía elaborada por el Ministerio para la transición ecológica y el reto demográfico. Diseñada para edades entre los 3 y los 14 años y también para profesorado. Cada apartado, dependiendo de la edad, cuenta con actividades, vídeos, juegos, revistas o artículos que giran en torno al Cambio Climático.
+
 ## Consumo Local
 
 ### Frutas Y Verduras
@@ -53,6 +56,10 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 #### Barcelona
 
 - [Més fresques que un enciam](https://mesfresquesqueunenciam.coop/) - Cooperativa autogestionada que ofrece servicio semanal de cestas de verdudas de distintos tamaños. Todo el producto proviene de circuitos cortos de su red de agricultoras sin intermediarios.
+
+- [Xarxa Productes de la Terra](https://xarxaproductesdelaterra.diba.cat/) - Proyecto de la Diputació de Barcelona que aglutina más de mil empresas productoras de alimentos de calidad dentro de la demarcación. Tiene como objetivos fortalecer el tejido empresarial entre productores locales.
+
+- [Fonts per Beure a Barcelona](https://opendata-ajuntament.barcelona.cat/data/ca/dataset/fonts/resource/dfcdd205-3c4e-4797-a931-fb6caec99d98) - Listado de fuentes públicas y potables de la ciudad de Barcelona. Se actualiza de forma anual.
 
 ## Energía Eléctrica
 
@@ -79,6 +86,8 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 ### Documentales
 
 - [Comprar, tirar, comprar. Obsolescencia programada](https://www.youtube.com/watch?v=uGAghAZRMyU) - Documental sobre la práctica de la obsolescencia programada, inventada en 1929.
+
+- [PUSH](https://vimeo.com/ondemand/pushthefilm) - Leilani Farha, reportera en las Naciones Unidas, viaja por el mundo intentando comprender a quién se echa de las ciudades y por qué. Este documental habla sobre el derecho a la vivienda y las diferencias entre hogar por comodidad o por necesidad.
 
 ### Radio y Podcast
 
@@ -109,6 +118,8 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 
 - [Code Against Climate Change](https://github.com/daviddao/code-against-climate-change) - Listado de proyectos tecnológicos en contra del cambio climático para inspirar tecnología disruptiva.
 
+- [Anima Naturalis](https://www.animanaturalis.org/) - AnimaNaturalis es una organización no gubernamental y sin fines de lucro, que trabaja para la defensa de los animales en España y Latinoamérica. Su principal objetivo es la divulgación de la información necesaria para ese cambio de conciencia que permita la convivencia pací­fica entre los humanos y no humanos.
+
 ## Apps
 
 - [Gratix](https://play.google.com/store/apps/details?id=com.gratix.app) - App para cambiar o regalar cosas y darles una segunda vida. App para Android.
@@ -116,6 +127,13 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 - [#BlockFossilsOut](https://beyond-coal.eu/blockfossilsout/) - Extension para Chrome y Firefox que bloquea las páginas de empresas de carbón y las que son financiandas por ellas.
 
 - [NMF.earth](https://nmf.earth/) - App para Android y iOS hacer un seguimiento y medir la huella ecológica de nuestras actividades diarias. También muestra el gasto producido por servicios de streaming digitales (audio, vídeo, etc.). Incluye una guía con recursos Zero Waste.
+
+- [Website Carbon Calculator](https://www.websitecarbon.com/) - Cómo impacta tu web al plantea? Descúbrelo con esta herramienta online para calcular el gasto energético de una url.
+
+- [ClimateAction.Tech](https://climateaction.tech/) - Comunidad de Slack enfocada a trabajadoras del mundo TIC interesadas en la acción climática.
+
+- [Som Gent de Profit](https://somgentdeprofit.cat/eines/) - Herramienta para calcular el peso a granel de algunos productos teniendo en cuenta las raciones que queremos cocinar. También tiene un buscador de recetas basado en lo que tengas en la nevera. La web está enfocada a reducir el malgasto alimenticio.
+
 
 ## Recetas
 ### Cosmética
@@ -130,3 +148,7 @@ El consumo actual de carne y productos de origen animal excede las recomendacion
 - [Tienda Intermon Oxfam](https://tienda.oxfamintermon.org) - Tienda online de la ONG centrada en el comercio justo.
 
 - [Consume con coco](http://consumeconcoco.com/) - Directorio con tiendas y marcas enfocadas al consumo responsable y sostenible. Tienen tiendas en todo tipo de categorías y se pueden filtrar.
+
+## Reciclaje
+
+- [Quién recoje la ropa en mi ciudad?](https://www.ocu.org/consumo-familia/consumo-colaborativo/informe/contenedores-de-ropa) - Listado de la OCU con todas las entidades autorizadas a la recolección de ropa en varias ciudades de España. Se distinguen entre empresa y entidad con fin social.
